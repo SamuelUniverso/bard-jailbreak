@@ -1,6 +1,6 @@
 # Google Bard Jailbreak
 
-This is a litte prompt that will enable you to to break Google Bard limitations and censoring. You simple need add this query before your desired prompt and Bard will give you the answer you want, without questioning or rebuking your input.
+This is a litte prompt that will enable you to to break Google Bard limitations and censoring. You simple need to give the jailbreak prompot so Bard can create the two roles.
 
 If the [DAN 🔑] answer does not appear, try the prompot bellow:
 
